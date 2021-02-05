@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="hadoop-yarn-services-api-3.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-services-api-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-api-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-timeline-pluginstorage-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-resourcemanager-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-registry-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-sharedcachemanager-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-client-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-common-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-common-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-applications-distributedshell-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-applicationhistoryservice-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-services-core-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-web-proxy-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-applications-unmanaged-am-launcher-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-router-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-server-nodemanager-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/yarn/hadoop-yarn-submarine-3.2.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/mapreduce" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/mapreduce/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/mapreduce" recursive="false" />
+  </library>
+</component>

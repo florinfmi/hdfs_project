@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="hadoop-hdfs-rbf-3.2.1-tests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-rbf-3.2.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-rbf-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-nfs-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-httpfs-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-client-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-client-3.2.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../My_Files/hadoop-3.2.1/hadoop-3.2.1/share/hadoop/hdfs/hadoop-hdfs-3.2.1-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
